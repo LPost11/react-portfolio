@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1425 >>
+stream
+BT /F1 22 Tf 1 0 0 1 60 750 Tm (LPoster) Tj ET
+BT /F1 12 Tf 1 0 0 1 60 728 Tm (Software Technology Student) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 710 Tm (Suzhou, Jiangsu, China  |  1713227350@qq.com  |  15231569662) Tj ET
+BT /F1 13 Tf 1 0 0 1 60 680 Tm (PROFILE) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 662 Tm (Software Technology student at Suzhou Centennial College, enrolled in 2024.) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 648 Tm (Interested in web development and building practical applications that solve) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 634 Tm (real problems. Eager to keep learning and take on new challenges.) Tj ET
+BT /F1 13 Tf 1 0 0 1 60 604 Tm (EDUCATION) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 586 Tm (Software Technology) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 572 Tm (Suzhou Centennial College  |  2024 - Present) Tj ET
+BT /F1 13 Tf 1 0 0 1 60 528 Tm (SKILLS) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 510 Tm (Programming Fundamentals, Web Technologies, HTML, CSS, JavaScript, Databases) Tj ET
+BT /F1 13 Tf 1 0 0 1 60 480 Tm (PROJECTS) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 462 Tm (TaskFlow - React productivity dashboard with drag-and-drop and local storage) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 448 Tm (Recipe Finder - Responsive app consuming a public recipe API) Tj ET
+BT /F1 10 Tf 1 0 0 1 60 434 Tm (Weather Now - Live weather and 5-day forecast using geolocation) Tj ET
+BT /F1 9 Tf 1 0 0 1 60 380 Tm (This is a SAMPLE resume. Replace public/resume.pdf with your own PDF.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001718 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1788
+%%EOF
